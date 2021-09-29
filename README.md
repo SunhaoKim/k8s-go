@@ -1,1 +1,1 @@
-# k8s-go
+client-go使用方法
